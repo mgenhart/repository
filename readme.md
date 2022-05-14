@@ -1,7 +1,10 @@
-# Bookings & reservations
+# Bookings and Reservations
 
-A Go web project to handle bookings & reservations for a B&B with 2 rooms.
+The repository for [Building Modern Web Applications with Go](https://www.udemy.com/course/building-modern-web-applications-with-go/?referralCode=0415FB906223F10C6800).
 
-- Uses the [chi router](github.com/go-chi/chi/v5).
-- Uses the [SCS session management](github.com/alexedwards/scs/v2).
-- Uses the [nosurf CSRF](github.com/justinas/nosurf) handler.
+
+
+- Built in Go version 1.15
+- Uses the [chi router](github.com/go-chi/chi)
+- Uses [alex edwards scs session management](github.com/alexedwards/scs)
+- Uses [nosurf](github.com/justinas/nosurf)
