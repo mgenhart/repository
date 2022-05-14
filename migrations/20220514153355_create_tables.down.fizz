@@ -1,0 +1,5 @@
+drop_table("users")
+drop_table("reservations")
+drop_table("rooms")
+drop_table("restrictions")
+drop_table("room_restrictions")
