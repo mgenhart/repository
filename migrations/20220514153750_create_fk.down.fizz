@@ -1,7 +1,0 @@
-drop_foreign_key("reservations", "room_restrictions_restrictions_id_fk")
-
-drop_foreign_key("room_restrictions", "room_restrictions_reservation_id_idx")
-
-drop_foreign_key("room_restrictions", "room_restrictions_room_id_idx")
-
-drop_foreign_key("room_restrictions", "room_restrictions_start_date_end_date_idx")
